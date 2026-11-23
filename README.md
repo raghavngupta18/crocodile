@@ -1,5 +1,6 @@
 # The Street Of Crocodiles
-[Version 1](https://raghavngupta18.github.io/crocodile/)
+
+### [Version 1](https://raghavngupta18.github.io/crocodile/)
 *November 9 2026*
 Created First HTML Page
 
